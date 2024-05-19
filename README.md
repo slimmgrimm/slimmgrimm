@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @slimmgrimm
 - 👀 I’m interested in learning and building things.
-- 🌱 I’m currently learning HTML basics.
+- 🌱 I’m currently a Licensed Massage Therapist transitioning into software engineering.
 - 💞️ I’m looking to collaborate on simple projects.
 - 📫 How to reach me...
 
